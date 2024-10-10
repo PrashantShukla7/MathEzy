@@ -65,6 +65,10 @@ log(2, 8); // 3
 ```bash
 solveQuadratic(1, -3, 2); // [2, 1]
 ```
+**solveLinear(a, b)**
+```bash
+solveLinear(4, -16); // 4
+```
 **sin(degrees)**
 ```bash
 sin(30); // 0.5
