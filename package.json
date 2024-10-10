@@ -1,0 +1,15 @@
+{
+  "name": "MathEzy",
+  "version": "1.0.0",
+  "description": "An npm package to mathematical computations",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Prashant Shukla",
+  "license": "ISC"
+}
