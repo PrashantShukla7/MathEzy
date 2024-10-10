@@ -1,4 +1,4 @@
-# math-util
+# math-ezy
 
 A lightweight and efficient math utilities package providing a collection of essential math functions such as prime checks, factorials, trigonometric calculations, and more.
 
@@ -7,12 +7,12 @@ A lightweight and efficient math utilities package providing a collection of ess
 You can install this package using npm:
 
 ```bash
-npm install math-utilities
+npm install math-ezy
 ```
 ## Documentation
 Once installed, you can import the functions you need
 ```bash
-import { add, subtract, factorial, isPrime, fibonacci } from 'math-utilities';
+import { add, subtract, factorial, isPrime, fibonacci } from 'math-ezy';
 
 // Example usage
 console.log(add(1, 2, 3)); // Output: 6
