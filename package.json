@@ -8,7 +8,7 @@
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "keywords": [
-        "npm"
+        "npm", "math", "math-ezy", "functions", "algebra", "numeric", "integer"
     ],
     "repository": {
         "type": "git",
